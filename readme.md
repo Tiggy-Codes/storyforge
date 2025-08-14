@@ -1,6 +1,6 @@
 # Welcome to StoryForge 🖋️
 
-This project is an experiment in adapting agentic software development tools, like Kilo Code, into a suite of specialized agents for creative writing. The goal is to provide a structured, powerful, and collaborative environment for authors to bring their stories to life.
+This project is an experiment in adapting agentic software development tools, like Kilo Code, into a suite of specialized agents for creative writing. The goal is to provide a structured, powerful, and collaborative agentic environment for authors to bring their stories to life.
 
 This repository is a structured environment designed to help you plan, write, and refine your novel or short story using a system of specialized AI agents. It uses a "Journal" system to maintain continuity and act as a single source of truth for your creative project.
 
